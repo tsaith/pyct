@@ -1,7 +1,7 @@
 # pyct
 A python binding for [compressive tracking](http://www4.comp.polyu.edu.hk/~cslzhang/CT/CT.htm) which is designed for real-time object tracking. 
 
-### demo
+### Demo
 - Kitesurf: https://youtu.be/7fYTloE1KCc 
 - Bolt: https://youtu.be/XeH4oDwVZj8
 
