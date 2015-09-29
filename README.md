@@ -3,7 +3,7 @@ A python binding for [compressive tracking](http://www4.comp.polyu.edu.hk/~cslzh
 
 ### Packages required
 - python 3
-- openCv 3 with python 3 support
+- opencv 3 with python 3 support
 - numpy
 - cython
 
