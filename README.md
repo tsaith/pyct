@@ -1,5 +1,5 @@
 # pyct
-Python binding for compressive tracking.
+A python binding for [compressive tracking](http://www4.comp.polyu.edu.hk/~cslzhang/CT/CT.htm) which is designed for real-time object tracking. 
 
 ### Packages required
 - python 3
@@ -8,12 +8,12 @@ Python binding for compressive tracking.
 - cython
 
 ### Build
-Following command will build the python binding (named `wrap.so`) for the lib of compressive tracking written in c++.
+Following command will build the python binding for the c++ version of compressive tracking.
 ```
 python3 setup.py
 ```
-### Run the tracker
 
+### Run the tracker
 From the webcam:
 ```
 python3 run.py
