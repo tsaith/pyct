@@ -32,3 +32,8 @@ For more definitions about the arguments, please execute
 ```
 python3 run.py -h
 ```
+
+### Remark
+
+There is also a [post](http://tsaith.github.io/blog/2015/09/30/a-python-binding-of-compressive-tracking/) describing some details about this binding.
+
